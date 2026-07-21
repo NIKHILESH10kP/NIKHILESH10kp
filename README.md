@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikhilesh%20K%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Building%20toward%20Full-Stack%20%26%20AI&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+Intern+%40+Alfido+Tech;Android+Dev+%40+Google+Virtual+Internship;UI%2FUX+Intern+%40+Tiranex;378+LeetCode+Problems+Solved+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+Intern+%40+Alfido+Tech;Android+Dev+%40+Google+Virtual+Internship;UI%2FUX+Intern+%40+Tiranex;385+LeetCode+Problems+Solved+%F0%9F%9A%80" />
 
 </div>
 
