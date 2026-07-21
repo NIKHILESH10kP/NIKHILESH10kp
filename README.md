@@ -171,7 +171,7 @@ print(me.motto())
 
 | | Achievement | Details |
 |---|---|---|
-| 💻 | LeetCode Problem Solver | 378 problems solved — 206 Easy, 189 Medium, 7 Hard |
+| 💻 | LeetCode Problem Solver | 385 problems solved — 255 Easy, 123 Medium, 7 Hard |
 | 🧩 | SkillRack Problem Solver | 119 problems solved — 83 in C, 7 in C++, 28 in Python, 1 in Java |
 | 🌐 | CCNA Certified | Cisco Certified Network Associate |
 | 📊 | Data Science Certification | Introduction to Data Science |
@@ -180,6 +180,7 @@ print(me.motto())
 | 🔌 | IoT & Digital Transformation | Introduction to IoT and Digital Transformation |
 | 🔐 | Cybersecurity Fundamentals | Introduction to Cybersecurity |
 | ➕ | C++ Essentials | C++ Essential 1 & 2 |
+| 🧱 | AWS Cloud Practitioner Essentials |
 
 </div>
 
