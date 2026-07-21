@@ -180,7 +180,8 @@ print(me.motto())
 | 🔌 | IoT & Digital Transformation | Introduction to IoT and Digital Transformation |
 | 🔐 | Cybersecurity Fundamentals | Introduction to Cybersecurity |
 | ➕ | C++ Essentials | C++ Essential 1 & 2 |
-| 🧱 | AWS Cloud Practitioner Essentials |
+| 🧱 | AWS SKILL BUILDER | AWS Cloud Practitioner Essentials |
+
 
 </div>
 
